@@ -1,4 +1,4 @@
-# Primary study
+# Primary studies
 
 **P1:** M. S. S. Junior and N. S. Rosa and F. A. A. Lins, Execution Support to Long Running Workflows. International Conference on Computer and Information Technology, 2014. [https://doi.org/10.1109/CIT.2014.94](https://doi.org/10.1109/CIT.2014.94)
 
