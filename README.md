@@ -8,7 +8,7 @@
 
 ![](./figs/selection-process.png)
 
-![](https://ibb.co/PgdtFDZ)
+<img src="https://camo.githubusercontent.com/danieledipompeo/icsa-2021-primary-study/main/figs/selection-process.png" data-canonical-src="https://ibb.co/PgdtFDZ" width="200" height="400" />
 
 After performing the automated search on digital libraries, we merged the obtained results and then removed duplicates, obtaining 159 papers. After that, we selected papers with respect to the selection criteria. In particular, for screening the publications, we defined the following exclusion criteria:
 
