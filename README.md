@@ -6,6 +6,10 @@
 
 ## Selection process
 
+![](./figs/selection-process.png)
+
+![](https://ibb.co/PgdtFDZ)
+
 After performing the automated search on digital libraries, we merged the obtained results and then removed duplicates, obtaining 159 papers. After that, we selected papers with respect to the selection criteria. In particular, for screening the publications, we defined the following exclusion criteria:
 
 - is a book chapter
@@ -17,3 +21,4 @@ After performing the automated search on digital libraries, we merged the obtain
 - not in English
 
 After the application of those criteria, we obtained 71 papers.
+
