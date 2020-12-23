@@ -26,35 +26,35 @@ Finally, we deeply analyzed each paper and excluded further 17 papers as they we
 
 #### Reseach Area
 
-(Research area)[./research-area.md] describes the principal area of interest in which the primary studies contribute to (note that, each study may contribute to more than one area).
+[Research area](./research-area.md) describes the principal area of interest in which the primary studies contribute to (note that, each study may contribute to more than one area).
 
 #### Target problem
 
-(Target problem)[./target-problem.md] deals with the problems targeted by the primary studies.
+[Target problem](./target-problem.md) deals with the problems targeted by the primary studies.
 
 #### Application domain
 
-(Application domain)[./application-domain.md] covers specific field of application.  
+[Application domain](./application-domain.md) covers specific field of application.  
 
 #### Research contributions
 
-(Research contributions)[./research-contribution.md] From our analysis, we can state that most of the studies contribute to the research domain with Performance analysis, Performance modelling, and Performance prediction approaches.
+[Research contributions](./research-contribution.md) From our analysis, we can state that most of the studies contribute to the research domain with Performance analysis, Performance modelling, and Performance prediction approaches.
 
 ### Characteristics of approaches
 
 #### Methodologies and techniques
-(Methodologies and techniques)[./methodologies-techniques.md] shows the results for the Methodologies and techniques. Most approaches use well-assessed techniques like Performance models and Performance analysis. 
+[Methodologies and techniques](./methodologies-techniques.md) shows the results for the Methodologies and techniques. Most approaches use well-assessed techniques like Performance models and Performance analysis. 
 
 #### Performance measures and indices
 
-(Performance measures and indices)[./performance-indices.md] shows the results obtained in the category Performance measures and indices. The most used performance index is \emph{Response time}; this result is likely related to the system domain the studies belong to.
+[Performance measures and indices](./performance-indices.md) shows the results obtained in the category Performance measures and indices. The most used performance index is \emph{Response time}; this result is likely related to the system domain the studies belong to.
 
 #### Types of data
 
-(Types of data)[./types-data.md] depicts the {Types of data} exploited in our primary studies. Most of them are due to Monitored and Runtime/Real-time data.
+[Types of data](./types-data.md) depicts the {Types of data} exploited in our primary studies. Most of them are due to Monitored and Runtime/Real-time data.
 
 
 #### Mapping variation
 
-(Mapping variation)[./mapping-variation.md] reports the average variation of mapping over the years (i.e., before and after 2015).
+[Mapping variation](./mapping-variation.md) reports the average variation of mapping over the years (i.e., before and after 2015).
 
