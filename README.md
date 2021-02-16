@@ -22,6 +22,7 @@ Finally, we deeply analyzed each paper and excluded further 17 papers as they we
 
 [Dataset](./dataset.md) depicts the results of our mapping study for each of the above mentioned categories, by reporting the number of primary studies classified with respect to each keyword. We also show the variation of this mapping over the years.
 
+<!--
 ### Research focus
 
 #### Reseach Area
@@ -56,5 +57,5 @@ Finally, we deeply analyzed each paper and excluded further 17 papers as they we
 
 #### Mapping variation
 
-[Mapping variation](./mapping-variation.md) reports the average variation of mapping over the years (i.e., before and after 2015).
+[Mapping variation](./mapping-variation.md) reports the average variation of mapping over the years (i.e., before and after 2015). -->
 
